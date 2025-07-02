@@ -1,0 +1,22 @@
+
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.sln.docstates
+
+# Build artifacts
+bin/
+obj/
+
+# Package Manager files
+packages/
+*.nupkg
+
+# Test results
+TestResults/
+
+# Other
+*.log
+*.bak
+*.tmp

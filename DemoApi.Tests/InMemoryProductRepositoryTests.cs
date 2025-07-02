@@ -12,7 +12,7 @@ namespace DemoApi.Tests
         {
             // Arrange
             var repository = new InMemoryProductRepository();
-            var product = new Product { Name = "Test Product", Price = 10.00m };
+            var product = new Product { Name = "Laptop Dell", Price = 10.00m };
 
             // Act
             var addedProduct = repository.AddProduct(product);
@@ -20,7 +20,7 @@ namespace DemoApi.Tests
             // Assert
             Assert.NotNull(addedProduct);
             Assert.True(addedProduct.Id > 0);
-            Assert.Equal("Test Product", addedProduct.Name);
+            Assert.Equal("Laptop Asus", addedProduct.Name);
             Assert.Equal(10.00m, addedProduct.Price);
             Assert.Contains(addedProduct, repository.GetAllProducts());
         }

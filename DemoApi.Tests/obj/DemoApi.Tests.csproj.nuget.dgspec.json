@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Demo_Swt301\\DemoApi.Tests\\DemoApi.Tests.csproj": {}
+    "E:\\Demo_Swt301\\DemoApi.Tests\\DemoApi.Tests.csproj": {}
   },
   "projects": {
-    "D:\\Demo_Swt301\\DemoApi.Tests\\DemoApi.Tests.csproj": {
+    "E:\\Demo_Swt301\\DemoApi.Tests\\DemoApi.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Demo_Swt301\\DemoApi.Tests\\DemoApi.Tests.csproj",
+        "projectUniqueName": "E:\\Demo_Swt301\\DemoApi.Tests\\DemoApi.Tests.csproj",
         "projectName": "DemoApi.Tests",
-        "projectPath": "D:\\Demo_Swt301\\DemoApi.Tests\\DemoApi.Tests.csproj",
+        "projectPath": "E:\\Demo_Swt301\\DemoApi.Tests\\DemoApi.Tests.csproj",
         "packagesPath": "C:\\Users\\Thinkpad\\.nuget\\packages\\",
-        "outputPath": "D:\\Demo_Swt301\\DemoApi.Tests\\obj\\",
+        "outputPath": "E:\\Demo_Swt301\\DemoApi.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Demo_Swt301\\DemoApi\\DemoApi.csproj": {
-                "projectPath": "D:\\Demo_Swt301\\DemoApi\\DemoApi.csproj"
+              "E:\\Demo_Swt301\\DemoApi\\DemoApi.csproj": {
+                "projectPath": "E:\\Demo_Swt301\\DemoApi\\DemoApi.csproj"
               }
             }
           }
@@ -91,14 +91,14 @@
         }
       }
     },
-    "D:\\Demo_Swt301\\DemoApi\\DemoApi.csproj": {
+    "E:\\Demo_Swt301\\DemoApi\\DemoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Demo_Swt301\\DemoApi\\DemoApi.csproj",
+        "projectUniqueName": "E:\\Demo_Swt301\\DemoApi\\DemoApi.csproj",
         "projectName": "DemoApi",
-        "projectPath": "D:\\Demo_Swt301\\DemoApi\\DemoApi.csproj",
+        "projectPath": "E:\\Demo_Swt301\\DemoApi\\DemoApi.csproj",
         "packagesPath": "C:\\Users\\Thinkpad\\.nuget\\packages\\",
-        "outputPath": "D:\\Demo_Swt301\\DemoApi\\obj\\",
+        "outputPath": "E:\\Demo_Swt301\\DemoApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
