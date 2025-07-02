@@ -20,7 +20,7 @@ namespace DemoApi.Tests
             // Assert
             Assert.NotNull(addedProduct);
             Assert.True(addedProduct.Id > 0);
-            Assert.Equal("Laptop Asus", addedProduct.Name);
+            Assert.Equal("Laptop Dell", addedProduct.Name);
             Assert.Equal(10.00m, addedProduct.Price);
             Assert.Contains(addedProduct, repository.GetAllProducts());
         }
